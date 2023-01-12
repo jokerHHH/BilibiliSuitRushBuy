@@ -1,6 +1,4 @@
-# BilibiliSuitRushBuy[哔哩哔哩装扮抢购脚本]
 
-## 这个脚本为啥有两个分支？
 
 - [`master`](https://github.com/WankkoRee/BilibiliSuitRushBuy/tree/master) 分支为蹲号抢Id模式
   ```shell
